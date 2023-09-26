@@ -1,7 +1,5 @@
 # Frontend Mentor - Tip calculator app
 
-![Design preview for the Tip calculator app coding challenge]
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
